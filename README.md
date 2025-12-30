@@ -17,3 +17,4 @@ This 6-month intensive program by **Berkeley Engineering** and the **Haas School
 ---
 
 ![UC Berkeley AIML Certificate](images/KV_Berkeley_AIML_Certificate.jpg)
+*UC Berkeley Professional Professional Certificate in Machine Learning and Artificial Intelligence*
