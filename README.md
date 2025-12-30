@@ -13,3 +13,7 @@ This 6-month intensive program by **Berkeley Engineering** and the **Haas School
 * 📈 **[Certified Deposit (CD) Analysis](https://github.com/kooroshvaziri/AIML_Classifier_Performance_Comparison_for_Termed_Certified_Deposits)**: Performance comparison of multiple ML classifiers.
 * 🚗 **[Vehicle Price Analysis](https://github.com/kooroshvaziri/Machine_Learning_ML_Regression_Model_for_Car_Prices)**: Regression-based valuation models for the automotive market.
 * 🎟️ **[Coupon Acceptance Analysis](https://github.com/kooroshvaziri/Data_Science_EDA_of_Car_Coupons_from_UCI_Machine_Learning_Data)**: Exploratory Data Analysis (EDA) on consumer behavior patterns.
+
+---
+
+![UC Berkeley AIML Certificate](images/KV_Berkeley_AIML_Certificate.jpg)
