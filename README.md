@@ -1,4 +1,4 @@
-# 🏛️ UC Berkeley Engineering: Professional Certificate in AI/ML
+# 🏛️ UC Berkeley Engineering: Professional Certificate in Machine Learning and Artificial Intelligence
 
 This 6-month intensive program by **Berkeley Engineering** and the **Haas School of Business** covers the end-to-end ML lifecycle, from data analytics to Deep Learning and Generative AI.
 
