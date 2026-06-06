@@ -17,4 +17,4 @@ This 6-month intensive Data Science program by **Berkeley Engineering** and the 
 ---
 
 ![UC Berkeley AIML Certificate](images/KV_Berkeley_AIML_Certificate.jpg)
-*UC Berkeley Professional Professional Certificate in Machine Learning and Artificial Intelligence*
+*UC Berkeley Professional Certificate in Machine Learning and Artificial Intelligence*
